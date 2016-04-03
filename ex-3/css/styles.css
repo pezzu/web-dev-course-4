@@ -27,7 +27,6 @@
 /*Navigation menu*/
 #nav-list a {
   color: black;
-  text-align: center;
 }
 #nav-list a:hover {
   background: #E7E7E7;
